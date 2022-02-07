@@ -4,7 +4,7 @@ _Click [here](https://github.com/gitmyles/Resume/raw/main/Resume.pdf) to downloa
 # Myles J. Johnson-Gray
 mjayegray@gmail.com
 
-(LinkedIn profile:)[https://www.linkedin.com/in/myles-johnson-gray-a34a2a147/]
+[LinkedIn profile:](https://www.linkedin.com/in/myles-johnson-gray-a34a2a147/)
 
 * Master of Science in Computer Science - University of Delaware
 * Bachelor of Science in Computer Science - Delaware State University
