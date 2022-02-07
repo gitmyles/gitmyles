@@ -9,9 +9,9 @@ mjayegray@gmail.com
 * Master of Science in Computer Science - University of Delaware
 * Bachelor of Science in Computer Science - Delaware State University
 
+<!--
 ### Hi there 👋
 
-<!--
 **gitmyles/gitmyles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
